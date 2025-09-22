@@ -2,4 +2,4 @@
 I made a change
 this is a local change 
 this is a remaote change
-ßßDoing this automatically on github, not locally
+Doing this automatically on github, not locally
